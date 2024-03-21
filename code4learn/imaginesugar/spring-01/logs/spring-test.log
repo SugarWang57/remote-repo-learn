@@ -1,0 +1,12 @@
+2024-03-21 at 14:52:48 HKT DEBUG org.springframework.context.support.AbstractApplicationContext 630 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@eda25e5
+2024-03-21 at 14:52:48 HKT DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 1 bean definitions from class path resource [bean.xml]
+2024-03-21 at 14:52:48 HKT DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'user'
+2024-03-21 at 14:58:09 HKT DEBUG org.springframework.context.support.AbstractApplicationContext 630 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@10ded6a9
+2024-03-21 at 14:58:09 HKT DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 1 bean definitions from class path resource [bean.xml]
+2024-03-21 at 14:58:09 HKT DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'user'
+2024-03-21 at 14:58:09 HKT INFO  com.sugar.spring6.TestUser 23 testUserObj - ====执行调用ing====
+
+2024-03-21 at 18:59:57 HKT DEBUG org.springframework.context.support.AbstractApplicationContext 630 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@c5dc4a2
+2024-03-21 at 18:59:57 HKT DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 1 bean definitions from class path resource [bean.xml]
+2024-03-21 at 18:59:57 HKT DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'user'
+2024-03-21 at 18:59:57 HKT INFO  com.sugar.spring6.TestUser 25 testUserObj - ====执行调用ing====
